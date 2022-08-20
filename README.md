@@ -6,4 +6,4 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aritranathhazra&layout=compact)](https://github.com/aritranathhazra/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aritranathhazra&show_icons=true&theme=material-palenight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aritranathhazra&show_icons=true&theme=chartreuse-dark)
