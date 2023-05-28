@@ -1,5 +1,5 @@
 ## Aritra Nath Hazra
-Hi there! I'm Aritra Nath Hazra, a full-stack web developer since 2020 and a certified ethical hacker since 2022. I'm passionate about creating high-quality, efficient, and secure web applications that solve real-world problems. My skills include HTML, CSS, JavaScript, Node.js, React, and MongoDB. When I'm not coding, you can find me reading about the latest web development trends or participating in online coding competitions.
+Hi there! I'm Aritra Nath Hazra, a Full-Stack Web Developer since 2020 and a certified Ethcial Hacker since 2022 and also i am BlockChain Developer since 2022. I'm passionate about creating high-quality, efficient, and secure web applications that solve real-world problems. My skills include HTML, CSS, JavaScript, Node.js, React, and MongoDB. When I'm not coding, you can find me reading about the latest web development trends or participating in online coding competitions.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aritranathazra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aritranathhazra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aritra-nath-hazra) 
 
